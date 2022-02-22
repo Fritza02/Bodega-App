@@ -31,7 +31,7 @@ El diseño de la página web fue realizado en Figma y el diseño del logo se rea
 
 ## 4. Interfaz de la Aplicación
 
-![foto3]()
+![foto3](https://github.com/Fritza02/Bodega-App/blob/master/src/img/imgReadme/Desktop.png?raw=true)
 
 ## 4. Despliegue de la página
 
