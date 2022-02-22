@@ -13,13 +13,14 @@ La Bodeguita Pyme es una página web pensada, diseñada y desarrollada para toda
 
 * El diseño de la página web fue realizado en Figma y el diseño del logo se realizó en Canva.
 
-![foto1]()
+![foto1](https://github.com/Fritza02/Bodega-App/blob/master/src/img/imgReadme/figma.png?raw=true)
 
+![foto2](https://github.com/Fritza02/Bodega-App/blob/master/src/img/imgReadme/L.png?raw=true)
 ## 3. ¿Cómo levantar el Proyecto?
 
 * Primero debe clonar este repositorio, el cual es la parte Front-End del proyecto y luego clonar la API desde: https://github.com/Fritza02/API-NODE-MYSQL
 
-* Posteriormente debe aplicar npm i desde ambos repositorios
+* Posteriormente debe aplicar npm i desde ambos repositorios.
 
 * En el repositorio Fron-End debe ejecutar **npm start** para que se abra la aplicación y luego en la terminal de API debe ejecutar **node server.js**
 
