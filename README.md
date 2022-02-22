@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+## Índice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* [1. La Bodeguita Pyme ](#1-La-Bodeguita-Pyme )
+* [2. Prototipo de Alta Fidelidad Y Logo](#2-Prototipo-de-Alta-Fidelidad-Y-Logo)
+* [3. ¿Cómo levantar el Proyecto?](#3-¿Cómo-levantar-el-Proyecto?)
+* [4. Despliegue de la página](#4-Despliegue-de-la-página)
 
-## Available Scripts
+## 1. La Bodeguita Pyme 
 
-In the project directory, you can run:
+La Bodeguita Pyme es una página web pensada, diseñada y desarrollada para todas aquellas pymes que no sepan cómo digitalizar la lista de sus productos en la web y así no depender de sus dispositivos y/o escritos en papel. En esta página se pueden agregar productos con su descripción y la cantidad que hay de cada uno, también se pueden editar y/o eliminar cada producto. 
 
-### `npm start`
+## 2. Prototipo de Alta Fidelidad Y Logo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* El diseño de la página web fue realizado en Figma y el diseño del logo se realizó en Canva.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![foto1]()
 
-### `npm test`
+## 3. ¿Cómo levantar el Proyecto?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Primero debe clonar este repositorio, el cual es la parte Front-End del proyecto y luego clonar la API desde: https://github.com/Fritza02/API-NODE-MYSQL
 
-### `npm run build`
+* Posteriormente debe aplicar npm i desde ambos repositorios
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* En el repositorio Fron-End debe ejecutar **npm start** para que se abra la aplicación y luego en la terminal de API debe ejecutar **node server.js**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 4. Despliegue de la página
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* https://test-dataon.herokuapp.com/
