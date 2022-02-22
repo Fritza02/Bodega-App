@@ -11,9 +11,14 @@ La Bodeguita Pyme es una página web pensada, diseñada y desarrollada para toda
 
 ## 2. Prototipo de Alta Fidelidad Y Logo
 
-* El diseño de la página web fue realizado en Figma y el diseño del logo se realizó en Canva.
+El diseño de la página web fue realizado en Figma y el diseño del logo se realizó en Canva.
+
+* Diseño de la página en Figma.
 
 ![foto1](https://github.com/Fritza02/Bodega-App/blob/master/src/img/imgReadme/figma.png?raw=true)
+
+
+* Diseño Logo de la página en Canva.
 
 ![foto2](https://github.com/Fritza02/Bodega-App/blob/master/src/img/imgReadme/L.png?raw=true)
 ## 3. ¿Cómo levantar el Proyecto?
@@ -22,7 +27,11 @@ La Bodeguita Pyme es una página web pensada, diseñada y desarrollada para toda
 
 * Posteriormente debe aplicar npm i desde ambos repositorios.
 
-* En el repositorio Fron-End debe ejecutar **npm start** para que se abra la aplicación y luego en la terminal de API debe ejecutar **node server.js**
+* En este proyecto Front-End debe ejecutar **npm start** para que se abra la aplicación y luego en la terminal del proyecto API debe ejecutar **node server.js** para que comience a correr el servidor.
+
+## 4. Interfaz de la Aplicación
+
+![foto3]()
 
 ## 4. Despliegue de la página
 
