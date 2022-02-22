@@ -1,0 +1,31 @@
+h2 {
+    margin-top: 15px;
+    color: #DE744C
+}
+.listProduct {
+    background-color: #D1E9E3;
+    width: 560px;
+    border-radius: 20px;
+    margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.containerFormAndList{
+    display: flex;
+    justify-content: space-around;
+}
+.btnEditAndDelete {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnDelete {
+    margin-right: 5px;
+}
+.tableHeader {
+    font-weight:  bolder;
+}
+.btnEdit {
+    background-color: #DE744C;
+    color: white;
+}

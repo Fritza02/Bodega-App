@@ -1,0 +1,17 @@
+.formClient {
+    background-color: #FEDCD2;
+    width: 400px;
+    border-radius: 20px;
+}
+.formPut {
+    margin-top: 20px;
+}
+.content-formBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formBtn {
+    background-color: #DEB237;
+    border: none;
+}
